@@ -1,0 +1,5 @@
+https://book.hacktricks.wiki/en/index.html
+https://github.com/b4rdia/HackTricks/tree/master
+https://bitvijays.github.io/
+https://github.com/enaqx/awesome-pentest
+https://github.com/wtsxDev/Penetration-Testing
